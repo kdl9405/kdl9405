@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Solved.ac
+tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjaks1546)](https://solved.ac/sjaks1546)
+
 <!--
 **kdl9405/kdl9405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
